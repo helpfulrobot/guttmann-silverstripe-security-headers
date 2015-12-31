@@ -55,5 +55,4 @@ class SecurityHeaderControllerExtension extends Extension
 
         return true;
     }
-
 }

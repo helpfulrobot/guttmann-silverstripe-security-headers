@@ -86,5 +86,4 @@ class SecurityHeaderControllerExtensionTest extends FunctionalTest
             )
         );
     }
-
 }
